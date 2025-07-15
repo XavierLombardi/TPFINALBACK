@@ -5,8 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "build": "tsc -b && vite build",
     "lint": "eslint .",
+=======
+    "build": "vite build",
+>>>>>>> 709a1dab69c3a0c716c0fea830e3e53ff3419183
     "preview": "vite preview"
   },
   "dependencies": {
